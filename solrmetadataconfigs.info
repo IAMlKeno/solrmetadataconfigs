@@ -19,3 +19,5 @@ features[islandora_solr_metadata_configurations][] = VideoMODS
 features[islandora_solr_metadata_configurations][] = department
 features[islandora_solr_metadata_configurations][] = scholar
 features[variable][] = islandora_metadata_display
+features[variable][] = islandora_solr_metadata_dedup_values
+features[variable][] = islandora_solr_metadata_omit_empty_values
